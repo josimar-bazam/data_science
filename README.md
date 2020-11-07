@@ -15,5 +15,5 @@ Colab you can create several "notebooks" and do the tests without installing any
 
 Install pandas library, run the command:
 
-```import pandas as pd``
+``import pandas as pd``
 

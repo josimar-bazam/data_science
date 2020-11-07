@@ -36,6 +36,7 @@ example time series with custom date-time format:
 )
 
   fig.show()
+```
 
 
 <p align="center">

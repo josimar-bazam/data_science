@@ -13,7 +13,7 @@ If you like to work with data analysis or "Data Science", I will show you a very
 Colab you can create several "notebooks" and do the tests without installing anything on your machine, then access the address  [Colab](https://colab.research.google.com).
 
 
-*Install pandas library 
+Install pandas library, run the command:
 
-``import pandas as pd``
+```import pandas as pd``
 

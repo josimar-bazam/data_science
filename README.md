@@ -19,7 +19,7 @@ Install pandas library, run the command:
 
 example time series with custom date-time format:
 
-`import plotly.graph_objects as go
+```import plotly.graph_objects as go
 
 import pandas as pd
 
@@ -35,4 +35,4 @@ fig.update_layout(
     xaxis_tickformat = '%d %B (%a)<br>%Y'
 )
 
-fig.show()`
+fig.show()```

@@ -36,3 +36,10 @@ example time series with custom date-time format:
 )
 
   fig.show()
+
+
+<p align="center">
+
+ <img src="https://github.com/josimar-bazam/data_science/blob/main/Screen%20Shot%202020-11-07%20at%2012.59.14%20AM.png"
+
+</p>
